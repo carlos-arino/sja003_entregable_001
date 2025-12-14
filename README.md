@@ -1,4 +1,4 @@
-# Guía de Prácticas: Simulación ESP32 en la Nube
+# Trabajo SJA003 con Simulación ESP32 en la Nube
 ### Entorno VS Code + PlatformIO + Wokwi
 
 **Departamento de Tecnología**
